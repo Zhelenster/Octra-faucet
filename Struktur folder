@@ -1,6 +1,0 @@
-octra-faucet-bot/
-├── index.js
-├── .env
-├── wallet.txt
-├── proxy.txt
-└── package.json
